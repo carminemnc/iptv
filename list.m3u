@@ -1,3 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="Zona Dazn" tvg-name="Zona Dazn" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/zonadazn.png" group-title="DAZN",Zona Dazn
+#EXTINF:-1 tvg-ID="SKY_CALCIO_BAR_1.it" tvg-name="Sport Bar 1" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/sportbar.png" group-title="SKY Calcio",Sport Bar 1
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146389
+#EXTINF:-1 tvg-ID="SKY_CALCIO_BAR_2.it" tvg-name="Sport Bar 2" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/sportbar.png" group-title="SKY Calcio",Sport Bar 2
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/150285
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Bar 3" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/sportbar.png" group-title="SKY Calcio",Sport Bar 3
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/214936
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Bar 4" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/sportbar.png" group-title="SKY Calcio",Sport Bar 4
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/214980
+#EXTINF:-1 tvg-ID="Sky Sport 251 HD" tvg-name="Sky Sport 251 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio1.png" group-title="SKY Calcio",Sky Sport 251 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2163
+#EXTINF:-1 tvg-ID="Sky Sport 251 HD" tvg-name="Sky Sport 251 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio1.png" group-title="SKY Calcio",Sky Sport 251 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/24301
+#EXTINF:-1 tvg-ID="Sky Sport 252 HD" tvg-name="Sky Sport 252 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio2.png" group-title="SKY Calcio",Sky Sport 252 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2164
+#EXTINF:-1 tvg-ID="Sky Sport 252 HD" tvg-name="Sky Sport 252 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio2.png" group-title="SKY Calcio",Sky Sport 252 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/24300
+#EXTINF:-1 tvg-ID="Sky Sport 253 HD" tvg-name="Sky Sport 253 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio3.png" group-title="SKY Calcio",Sky Sport 253 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2168
+#EXTINF:-1 tvg-ID="Sky Sport 253 HD" tvg-name="Sky Sport 253 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio3.png" group-title="SKY Calcio",Sky Sport 253 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/24299
+#EXTINF:-1 tvg-ID="Sky Sport 254 HD" tvg-name="Sky Sport 254 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio4.png" group-title="SKY Calcio",Sky Sport 254 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2169
+#EXTINF:-1 tvg-ID="Sky Sport 254 HD" tvg-name="Sky Sport 254 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio4.png" group-title="SKY Calcio",Sky Sport 254 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/29250
+#EXTINF:-1 tvg-ID="Sky Sport 255 HD" tvg-name="Sky Sport 255 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio5.png" group-title="SKY Calcio",Sky Sport 255 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2170
+#EXTINF:-1 tvg-ID="Sky Sport 255 HD" tvg-name="Sky Sport 255 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio5.png" group-title="SKY Calcio",Sky Sport 255 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/29251
+#EXTINF:-1 tvg-ID="Sky Sport 256 HD" tvg-name="Sky Sport 256 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio6.png" group-title="SKY Calcio",Sky Sport 256 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/2172
+#EXTINF:-1 tvg-ID="Sky Sport 256 HD" tvg-name="Sky Sport 256 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio6.png" group-title="SKY Calcio",Sky Sport 256 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/29252
+#EXTINF:-1 tvg-ID="Sky Sport 257" tvg-name="Sky Sport 257 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio7.png" group-title="SKY Calcio",Sky Sport 257 HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/147475
+#EXTINF:-1 tvg-ID="Sky Sport 257" tvg-name="Sky Sport 257 Full HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio7.png" group-title="SKY Calcio",Sky Sport 257 Full HD
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/147476
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 258" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio.png" group-title="SKY Calcio",Sky Sport 258
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/217236
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 259" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio.png" group-title="SKY Calcio",Sky Sport 259
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/217433
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 260" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio.png" group-title="SKY Calcio",Sky Sport 260
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/230565
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 261" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/skycalcio.png" group-title="SKY Calcio",Sky Sport 261
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/230566
+#EXTINF:-1 tvg-ID="" tvg-name="♛●★ Vetrina Dazn Serie A ★●♛" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",♛●★ Vetrina Dazn Serie A ★●♛
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/18130
+#EXTINF:-1 tvg-ID="Zona Dazn" tvg-name="Zona Dazn" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/zonadazn.png" group-title="Dazn Serie A",Zona Dazn
 http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146381
+#EXTINF:-1 tvg-ID="" tvg-name="Zona Serie A" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",Zona Serie A
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/215061
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Serie A 1" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 1
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/230581
+#EXTINF:-1 tvg-ID="DAZN_IT_02.it" tvg-name="DAZN Serie A 2" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 2
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146331
+#EXTINF:-1 tvg-ID="DAZN_IT_03.it" tvg-name="DAZN Serie A 3" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 3
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146334
+#EXTINF:-1 tvg-ID="DAZN_IT_04.it" tvg-name="DAZN Serie A 4" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 4
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146337
+#EXTINF:-1 tvg-ID="DAZN_IT_05.it" tvg-name="DAZN Serie A 5" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 5
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146340
+#EXTINF:-1 tvg-ID="DAZN_IT_06.it" tvg-name="DAZN Serie A 6" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 6
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146343
+#EXTINF:-1 tvg-ID="DAZN_IT_07.it" tvg-name="DAZN Serie A 7" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 7
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146346
+#EXTINF:-1 tvg-ID="DAZN_IT_08.it" tvg-name="DAZN Serie A 8" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 8
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/146349
+#EXTINF:-1 tvg-ID="DAZN_IT_09.it" tvg-name="DAZN Serie A 9" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 9
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/152616
+#EXTINF:-1 tvg-ID="DAZN_IT_10.it" tvg-name="DAZN Serie A 10" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/dazn.png" group-title="Dazn Serie A",DAZN Serie A 10
+http://mynonymousgreen.ddns.net:80/5EZJxN8VJN/ApxFhGqFEr/152619
